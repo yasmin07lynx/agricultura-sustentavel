@@ -1,1 +1,13 @@
+.corpo{
+    background-color: azure;
+}
 
+.titulo{
+    color: greenyellow;
+    font-size: 50px;
+}
+
+.link{
+    color: green;
+    font-size: 15px;
+}
