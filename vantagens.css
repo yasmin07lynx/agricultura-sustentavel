@@ -1,0 +1,18 @@
+.corpo{
+    background-color: cadetblue;
+}
+
+.titulo{
+    color: black;
+    font-size: 50px;
+}
+
+.paragrafo{
+    color: aliceblue;
+    font-size: 35px;
+}
+
+.subtitulo{
+    color: black;
+    font-size: 30px;
+}
