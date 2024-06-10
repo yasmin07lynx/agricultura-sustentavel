@@ -16,3 +16,6 @@
     color: black;
     font-size: 30px;
 }
+.texto{
+    list-style-type: circle;
+}
