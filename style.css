@@ -8,22 +8,23 @@
 }
 
 .link{
-    color: green;
+    color: rgb(209, 214, 209);
     font-size: 15px;
 }
 
 @media screen  and (min-width: 425px) {
     .corpo{
-        background-color: azure;
+        background-color: rgb(81, 194, 194);
+    }
     }
     
     .titulo{
-        color: greenyellow;
+        color: rgb(7, 60, 73);
         font-size: 50px;
     }
     
     .link{
-        color: green;
+        color:rgb(209, 214, 209);
         font-size: 15px;
     }
 }
