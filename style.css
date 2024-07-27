@@ -20,12 +20,11 @@
 .lista{
     list-style: none;
     padding: 0;
-    font-size: 30px;
 }
 
 .paginas{
     color: rgb(209, 214, 209);
-    font-size: 30px;
+    font-size: 30cm;
     display: inline;
     margin: 0 10px;
 }
