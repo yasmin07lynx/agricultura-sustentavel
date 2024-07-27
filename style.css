@@ -1,6 +1,5 @@
 
 .corpo{
-    font-size: 50px;
     background-color: rgb(92, 244, 186);
 }
 
@@ -18,12 +17,13 @@
 }
 
 .lista{
+    font-size: 25px;
     list-style: none;
     padding: 0;
 }
 
 .paginas{
-    font-size: 25px;
+    
     color: rgb(209, 214, 209);
     display: inline;
     margin: 0 10px;
