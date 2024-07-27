@@ -5,6 +5,7 @@
 
 .cabecalho{
     background-color: rgb(40, 109, 87);
+    text-align: center;
     padding: 0 10px;
     font-size: 10px;
 }
