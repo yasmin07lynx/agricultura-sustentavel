@@ -13,6 +13,8 @@
 .lista{
     align-items: center;
     list-style: none;
+    align-self: auto;
+    align-content: 3px;
 }
 
 .titulo{
