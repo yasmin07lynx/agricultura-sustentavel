@@ -1,5 +1,6 @@
 
 .corpo{
+    font-size: 50px;
     background-color: rgb(92, 244, 186);
 }
 
@@ -8,7 +9,6 @@
     text-align: center;
     padding: 0 10px;
     margin: 0;
-    font-size: 10px;
 }
 
 
