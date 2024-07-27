@@ -15,6 +15,7 @@
     list-style: none;
     align-self: center;
     align-content: center;
+    display: inline block;
 }
 
 .titulo{
