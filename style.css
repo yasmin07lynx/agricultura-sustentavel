@@ -1,5 +1,12 @@
+
 .corpo{
-    background-color: rgb(81, 194, 194);
+    background-color: rgb(92, 244, 186);
+}
+
+.cabecalho{
+    background-color: rgb(40, 109, 87);
+    padding: 0 10px;
+    font-size: 10px;
 }
 
 .titulo{
