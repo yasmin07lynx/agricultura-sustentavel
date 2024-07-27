@@ -17,16 +17,19 @@
 }
 
 .lista{
-    color: rgb(209, 214, 209);
-    font-size: 25px;
+    list-style: none;
+    padding: 0;
     
 }
 
 .paginas{
-    list-style: none;
-    padding: 0;
     display: inline;
     margin: 0 10px;
+}
+
+.item{
+    color: #22359c;
+    text-decoration: none;
 }
 
 @media screen  and (min-width: 425px) {
