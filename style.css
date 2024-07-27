@@ -17,14 +17,13 @@
 }
 
 .lista{
-    font-size: 25px;
     list-style: none;
     padding: 0;
 }
 
 .paginas{
-    font-size: 25px;
     color: rgb(209, 214, 209);
+    font-size: 25px;
     display: inline;
     margin: 0 10px;
 }
