@@ -12,6 +12,7 @@
 
 .lista{
     align-items: center;
+    list-style: none;
 }
 
 .titulo{
