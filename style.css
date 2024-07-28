@@ -34,6 +34,18 @@
     text-decoration: none;
 }
 
+.imagem{
+    width: 0 10px;
+}
+
+
+
+
+
+
+
+
+
 @media screen  and (min-width: 425px) {
     .corpo{
         background-color: cadetblue;
