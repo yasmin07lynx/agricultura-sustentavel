@@ -37,7 +37,7 @@
 .titulo2{
     color: rgb(7, 60, 73);
     font-size: 35px;
-    border: dashed;
+    border: dashed rgb(40, 109, 87);
 }
 
 .paragrafo{
@@ -47,9 +47,9 @@
 .subtitulo{
     color:rgb(11, 90, 110) ;
     font-size: 32px;
-   
+    list-style-type: circle white;
 }
-.item-lista2{ list-style-type: circle; color:white;}
+
 
 
 
