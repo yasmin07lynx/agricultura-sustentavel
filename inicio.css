@@ -2,19 +2,14 @@
     background-color: cadetblue;
 }
 
-.titulo{
-    color: black;
-    font-size: 50px;
+titulo2{
+    font-size: 15px;
+    color: white;
 }
 
 .paragrafo{
     color: rgb(0, 0, 0);
     font-size: 28px;
-}
-
-.subtitulo{
-    color: black;
-    font-size: 20px;
 }
 
 .imagem{
@@ -23,6 +18,3 @@
     width: 0 10px;
 }
 
-titulo2{
-    color: white;
-}
