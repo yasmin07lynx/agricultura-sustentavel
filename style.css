@@ -34,18 +34,16 @@
     text-decoration: none;
 }
 
-.imagem{
-    align-items: center;
-    padding: 10 10px;
-    width: 0 10px;
-}
-
 titulo2{
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 .paragrafo{
     font-size: 28px;
+}
+
+.subtitulo{
+    color:rgb(11, 90, 110) ;
 }
 
 
