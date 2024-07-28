@@ -8,8 +8,8 @@
 }
 
 .paragrafo{
-    color: aliceblue;
-    font-size: 35px;
+    color: rgb(0, 0, 0);
+    font-size: 28px;
 }
 
 .subtitulo{
@@ -25,8 +25,4 @@
 
 titulo2{
     color: white;
-}
-
-.paragrafo{
-    font-size: 28px;
 }
