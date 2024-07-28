@@ -16,3 +16,17 @@
     color: black;
     font-size: 20px;
 }
+
+.imagem{
+    align-items: center;
+    padding: 10 10px;
+    width: 0 10px;
+}
+
+titulo2{
+    color: white;
+}
+
+.paragrafo{
+    font-size: 28px;
+}
