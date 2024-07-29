@@ -55,11 +55,15 @@
 }
 
 .item-lista{
-    list-style-type:decimal ;
+    list-style-type: decimal;
+    font-size: 18px;
+    color:rgb(40, 109, 87)
 }
 
 .item-texto{
-    list-style-type: circle;
+    color:black;
+    list-style-type: circle white;
+    font-size: 13px;
 }
 
 
