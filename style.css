@@ -54,7 +54,11 @@
     font-size: 32px;
 }
 
-.lista-item{
+.item-lista{
+    list-style-type: decimal;
+}
+
+.item-texto{
     list-style-type: circle;
 }
 
