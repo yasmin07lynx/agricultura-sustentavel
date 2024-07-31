@@ -15,3 +15,29 @@
     color:rgb(11, 90, 110) ;
     font-size: 32px;
 }
+
+
+
+
+
+
+
+@media screen  and (min-width: 425px) {
+    .corpo{
+        background-color: cadetblue;
+    }
+    }
+    
+    .titulo{
+        color: rgb(7, 60, 73);
+        font-size: 50px;
+    }
+
+    titulo2{
+        color: white;
+    }
+    
+    .paginas{
+        color:rgb(209, 214, 209);
+        font-size: 15px;
+    }
