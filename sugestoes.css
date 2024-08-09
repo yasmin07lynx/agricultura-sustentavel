@@ -50,8 +50,8 @@
     }
 
     .imagem {
-        width: 320;
-        padding: 1000;
+                width: 320;
          height: 2000;
+         max-height: 300%;
     }
     
