@@ -51,11 +51,8 @@
         color:rgb(39, 72, 75);
         font-size: 32px;
     }
-
-    .titulo2{
-        color: white;
-    }
     
+
     .paginas{
         color:rgb(209, 214, 209);
         font-size: 15px;
@@ -64,11 +61,13 @@
     .titulo2{
         color: rgb(39, 72, 75);
         font-size: 35px;
+        border: dashed rgb(39, 72, 75);
     }
     
     .titulo3{
         color: aquamarine;
         font-size: 30px;
+
     }
     .paragrafos{
         color: black;
