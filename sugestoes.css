@@ -17,19 +17,19 @@
     }
     
    .cabecalho{
-        background-color: rgb(40, 109, 87);
+        background-color:  rgb(43, 76, 78);
         text-align: center;
         padding: 10px 0;
         margin: 0;
     }
 
     .titulo{
-        color: rgb(7, 60, 73);
+        color: rgb(66, 112, 123);
         font-size: 45px;
     }
 
     .paragrafos{
-        color: rgb(19, 78, 78);
+        color: rgb(238, 255, 255);
         font-size: 40px;
     
     }
