@@ -21,11 +21,16 @@
         font-size: 50px;
     }
 
-    titulo2{
-        color: white;
+    .titulo2{
+        color: rgb(39, 72, 75);
+        font-size: 35px;
+        border: dashed rgb(39, 72, 75);
+    }
+
+    
+    .paragrafo{
+        color: black;
+        font-size: 25px;
+    
     }
     
-    .paginas{
-        color:rgb(209, 214, 209);
-        font-size: 15px;
-    }
