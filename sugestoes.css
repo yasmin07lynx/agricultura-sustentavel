@@ -26,10 +26,11 @@
     .titulo{
         color: rgb(58, 170, 160);
         font-size: 45px;
+        border: double;
     }
 
     .paragrafos{
-        color:  rgb(58, 170, 160);
+        color: rgb(153, 220, 220);
         font-size: 40px;
     
     }
