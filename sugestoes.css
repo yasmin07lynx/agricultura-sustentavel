@@ -21,12 +21,13 @@
         text-align: center;
         padding: 10px 0;
         margin: 0;
+        border: 15px double;
     }
 
     .titulo{
         color: rgb(58, 170, 160);
         font-size: 45px;
-        border: 15px double;
+        border: 10px dotted;
     }
 
     .paragrafos{
