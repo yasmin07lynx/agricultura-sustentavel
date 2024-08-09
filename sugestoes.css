@@ -16,6 +16,13 @@
     }
     }
     
+   .cabecalho{
+        background-color: rgb(40, 109, 87);
+        text-align: center;
+        padding: 10px 0;
+        margin: 0;
+    }
+
     .titulo{
         color: rgb(7, 60, 73);
         font-size: 45px;
