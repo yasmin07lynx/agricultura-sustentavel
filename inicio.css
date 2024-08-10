@@ -34,7 +34,7 @@
 @media screen  and (min-width: 425px) {
     .corpo{
         background-color: cadetblue;
-        font-family: Abril+Fatface&display=swap;
+       
     }
     }
     
@@ -48,6 +48,7 @@
     .titulo{
         color: rgb(19, 68, 80);
         font-size: 40px;
+        font-family: Abril+Fatface&display=swap;
     }
 
     titulo2{
