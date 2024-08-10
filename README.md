@@ -1,1 +1,2 @@
 # agricultura-sustentavel
+Ao abrir a página inicial, é possível observar uma lista dentro do cabeçalho, ao clicar em algum dos itens você será direcionado a outra página com o conteúdo direcionado ao item escolhido. Mais ao final da página inicial podemos observar uma imagem e uma lista, a página inicial é diretamente relacionada a explicação de agricultura sustentável. Nas outras páginas pode-se observar com mais detalhes itens, como vantagens e desvantagens da agricultura sustentável, a tecnologia presente neste cultivo, algumas sugestões e como acontece na prática.
