@@ -33,10 +33,13 @@
     
     .cabecalho{
         background-color:  rgb(51, 93, 95);
+        padding: 10px 0;
+        margin: 0;
+        border: 15px double;
     }
 
     .titulo{
-        color: rgb(8, 109, 134);
+        color: rgb(19, 68, 80);
         font-size: 40px;
     }
 
