@@ -1,7 +1,6 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
+@import url(<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
-
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">);
 
 
 .corpo{
@@ -48,7 +47,7 @@
     .titulo{
         color: rgb(19, 68, 80);
         font-size: 40px;
-        font-family: Abril+Fatface&display=swap;
+        font-family:Abril+Fatface;
     }
 
     titulo2{
