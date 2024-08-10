@@ -1,3 +1,9 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
+
+
+
 .corpo{
     background-color: cadetblue;
 }
@@ -28,6 +34,7 @@
 @media screen  and (min-width: 425px) {
     .corpo{
         background-color: cadetblue;
+        font-family: Abril+Fatface&display=swap;
     }
     }
     
