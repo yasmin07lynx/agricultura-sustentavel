@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Jacquarda+Bastarda+9&display=swap');
+
+
 .corpo{
     background-color: cadetblue;
 }
@@ -5,6 +8,7 @@
 .titulo{
     color: black;
     font-size: 50px;
+    font-family: "Dancing Script";
 }
 
 .paragrafo{
@@ -34,6 +38,7 @@
     .titulo{
         color: rgb(7, 60, 73);
         font-size: 50px;
+        font-family: "Dancing Script";
     }
 
     titulo2{
