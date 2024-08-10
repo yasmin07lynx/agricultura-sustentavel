@@ -50,7 +50,8 @@
     }
 
     .imagem {
-        padding: 80 0%;
+        border: 10%;
+        padding: 80%;
         width: 90%;
     }
     
