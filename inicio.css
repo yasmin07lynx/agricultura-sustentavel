@@ -31,8 +31,12 @@
     }
     }
     
+    .cabecalho{
+        background-color:  rgb(51, 93, 95);
+    }
+
     .titulo{
-        color: rgb(7, 60, 73);
+        color: rgb(8, 109, 134);
         font-size: 40px;
     }
 
